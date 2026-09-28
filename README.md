@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="374" height="211" alt="tenor" src="https://github.com/user-attachments/assets/51f9a1d0-a83c-4efc-b8e1-ed95f81f44e5" />
 
 <!--
 **Nundoochan/nundoochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
